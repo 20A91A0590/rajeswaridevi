@@ -1,0 +1,6 @@
+a=int(input('enter value'))
+b=int(input('enter value'))
+c=int(Avg=sum/input('enter value'))
+Sum=a+b+c/3
+Print(sum)
+Print(Avg)
