@@ -1,0 +1,8 @@
+If a<30
+  Print('a is less than 30')
+  Print(' hello.....')
+  
+  Output
+   a=15
+   a is less than 30
+   hello.....
