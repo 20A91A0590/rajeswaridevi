@@ -1,0 +1,15 @@
+#program to read age of students and whether student is eligible for vote or not
+name=raw_input("enter input")
+age=int(raw_input("enter age")
+if age<18:
+    Print ("sorry!",name)
+    Print("not eligible for vote due to",age)
+else:
+    Print("hi",name)
+    Print("you r eligible for vote")
+
+#output 
+Enter input raji
+Enter age 18
+Hi,raji
+Eligible for vote
