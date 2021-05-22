@@ -1,0 +1,9 @@
+Num=int(input("enter number"))
+if(Num%2)==0
+    Print('Num',is even number)
+else
+    Print('Num' is odd number)
+
+expected output:
+Enter number 10
+10 is even number
