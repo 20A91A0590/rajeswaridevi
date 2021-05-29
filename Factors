@@ -2,7 +2,7 @@ n=int(input ("enter number"))
 i=1
 While(i<=n):
      if(n%i==0):
-          Print(i)
+          print(i)
      i+=1
 '''output: 
 enter number 25
