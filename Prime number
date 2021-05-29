@@ -1,0 +1,16 @@
+n=int(input('enter number:'))
+i=1
+Count=0
+While(i<=n):
+    If(n%i==0):
+     Count+=1
+     i+=1
+if (count==2):
+         print("%d is a prime number" %(n))
+Else:
+   Print("%d is not a prime number"%(n))
+
+
+'''output:
+enter number 15
+15 is not a prime number'''
