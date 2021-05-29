@@ -5,10 +5,10 @@ While(i<=n//2):
     If(n%i==0):
      Count+=1
      i+=1
-if (count==2):
-         print("%d is a prime number" %(n))
+if (count==1):
+     print("%d is a prime number" %(n))
 Else:
-   Print("%d is not a prime number"%(n))
+     Print("%d is not a prime number"%(n))
 
 
 '''output:
