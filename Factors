@@ -1,0 +1,11 @@
+n=int(input ("enter number"))
+i=1
+While(i<=n):
+     if(n%i==0):
+          Print(i)
+     i+=1
+'''output: 
+enter number 25
+1
+5
+25'''
