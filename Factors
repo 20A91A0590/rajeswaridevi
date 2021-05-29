@@ -5,7 +5,10 @@ While(i<=n):
           print(i)
      i+=1
 '''output: 
-enter number 25
+enter number 50
 1
+2
 5
-25'''
+10
+25
+50'''
