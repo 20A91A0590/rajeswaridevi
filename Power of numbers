@@ -1,0 +1,12 @@
+a=int(input('enter a value '))
+b=int(input('enter b value '))
+c=a**b
+print('%d**%d is %d' %(a,b,c))
+last_digit=(c%10)
+print('last digit is %d' %(last_digit))
+
+'''Expected output:
+enter a value 25
+enter b value 3
+25**3 is 15625
+last digit is 5'''
