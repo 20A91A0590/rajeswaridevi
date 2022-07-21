@@ -1,0 +1,7 @@
+clg=input("enter clg :")
+branch=input("enter branch: ")
+year=int(input("enter year :"))
+if(clg=="aec" and (branch=="cse" or branch=="it" ) and year==4):
+     print("selected")
+else:
+    print("not selected")
